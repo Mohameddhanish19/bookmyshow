@@ -1,4 +1,4 @@
-a = 30
-b = 20
+a = 3
+b = 2
 if a > b
-  print("a is greater than b")
+  print("a is greater than b");
