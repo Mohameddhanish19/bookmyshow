@@ -1,4 +1,4 @@
 a = 33
 b = 200
-if b > a:
+if a > b
   print("a is greater than b")
