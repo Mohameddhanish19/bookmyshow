@@ -1,4 +1,4 @@
-x = 33
-y = 20
-if x > y
-  print("x is greater than y")
+a = 33
+b = 20
+if a > b
+  print("a is greater than b")
